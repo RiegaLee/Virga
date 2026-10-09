@@ -1,0 +1,142 @@
+# Final item icons that intentionally bypass the generated Vanilla cache.
+# A file existing elsewhere in the theme does not make it an explicit override.
+overrides:
+  "minecraft:shield":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/shield.png
+  "minecraft:honey_block":
+    reason: TRANSLUCENT_BLOCK_MODEL
+    asset: overrides/items/minecraft/honey_block.png
+  "minecraft:chest":
+    reason: SPECIAL_RENDERER
+    asset: overrides/items/minecraft/chest.png
+  "minecraft:ender_chest":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/ender_chest.png
+  "minecraft:trapped_chest":
+    reason: GENERATED_SPECIAL_STATIC_SEASONAL
+    asset: overrides/items/minecraft/trapped_chest.png
+    seasonal-variant: special-variants/minecraft/trapped_chest_christmas.png
+  "minecraft:copper_chest":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/copper_chest.png
+  "minecraft:exposed_copper_chest":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/exposed_copper_chest.png
+  "minecraft:weathered_copper_chest":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/weathered_copper_chest.png
+  "minecraft:oxidized_copper_chest":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/oxidized_copper_chest.png
+  "minecraft:waxed_copper_chest":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/waxed_copper_chest.png
+  "minecraft:waxed_exposed_copper_chest":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/waxed_exposed_copper_chest.png
+  "minecraft:waxed_weathered_copper_chest":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/waxed_weathered_copper_chest.png
+  "minecraft:waxed_oxidized_copper_chest":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/waxed_oxidized_copper_chest.png
+  "minecraft:shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/shulker_box.png
+  "minecraft:white_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/white_shulker_box.png
+  "minecraft:orange_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/orange_shulker_box.png
+  "minecraft:magenta_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/magenta_shulker_box.png
+  "minecraft:light_blue_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/light_blue_shulker_box.png
+  "minecraft:yellow_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/yellow_shulker_box.png
+  "minecraft:lime_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/lime_shulker_box.png
+  "minecraft:pink_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/pink_shulker_box.png
+  "minecraft:gray_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/gray_shulker_box.png
+  "minecraft:light_gray_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/light_gray_shulker_box.png
+  "minecraft:cyan_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/cyan_shulker_box.png
+  "minecraft:purple_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/purple_shulker_box.png
+  "minecraft:blue_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/blue_shulker_box.png
+  "minecraft:brown_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/brown_shulker_box.png
+  "minecraft:green_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/green_shulker_box.png
+  "minecraft:red_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/red_shulker_box.png
+  "minecraft:black_shulker_box":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/black_shulker_box.png
+  "minecraft:white_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/white_bed.png
+  "minecraft:orange_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/orange_bed.png
+  "minecraft:magenta_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/magenta_bed.png
+  "minecraft:light_blue_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/light_blue_bed.png
+  "minecraft:yellow_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/yellow_bed.png
+  "minecraft:lime_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/lime_bed.png
+  "minecraft:pink_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/pink_bed.png
+  "minecraft:gray_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/gray_bed.png
+  "minecraft:light_gray_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/light_gray_bed.png
+  "minecraft:cyan_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/cyan_bed.png
+  "minecraft:purple_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/purple_bed.png
+  "minecraft:blue_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/blue_bed.png
+  "minecraft:brown_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/brown_bed.png
+  "minecraft:green_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/green_bed.png
+  "minecraft:red_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/red_bed.png
+  "minecraft:black_bed":
+    reason: GENERATED_SPECIAL_STATIC
+    asset: overrides/items/minecraft/black_bed.png

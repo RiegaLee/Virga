@@ -1,0 +1,19 @@
+logs/*
+temp*
+# Project exclude paths
+src/test/java/temp/gs/**
+out/**
+/target/
+.idea
+temp.log
+temp.json
+temp.http
+bot-qqpd-java.iml
+test_temp.java
+src/test/java/temp/*
+/src/test/java/test_temp_public.java
+/src/test/java/test_temp_private.java
+
+# Gradle build (added for composite build integration)
+.gradle/
+build/

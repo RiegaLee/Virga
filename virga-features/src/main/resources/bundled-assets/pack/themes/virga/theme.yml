@@ -1,0 +1,38 @@
+format-version: 1
+id: virga
+name: Virga Inventory
+version: 1.2.2
+minecraft-version: "Faithful assets 26.3; target server versions 1.21.11 through 26.3"
+asset-pack-version: "4: Virga UI, Faithful 32x 26.3 item art and component-aware item variants"
+background: background.png
+layout: layout.yml
+textures-directory: assets
+overrides-directory: overrides/items
+special-variants-directory: special-variants
+runtime-composites-directory: runtime-composites/items/minecraft
+fallback-texture: fallback/unknown.png
+license: LICENSE.txt
+source: SOURCES.md
+manifest: ASSET_MANIFEST.tsv
+
+render:
+  draw-title: false
+  draw-slot-backgrounds: false
+  draw-player-preview-matte: false
+  texture-interpolation: nearest
+
+ender-chest:
+  canvas:
+    width: 1620
+    height: 694
+  storage:
+    start-x: 175
+    start-y: 138
+    step-x: 143
+    step-y: 149
+  slot:
+    size: 128
+    item-size: 112
+  freshness:
+    x: 96
+    y: 48

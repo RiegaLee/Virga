@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="AGPL-3.0-only"
+
+[[mods]]
+modId="virga"
+version="${version}"
+displayName="Virga"
+authors="RiegaLee"
+logoFile="assets/virga/icon.png"
+description='''
+Virga：Forge / NeoForge 服务端 QQ 群机器人，提供在线列表、服务器状态、账号绑定、背包与末影箱查询，以及本机管理面板。
+'''
+# Only the dedicated server needs Virga: players join with unmodified clients.
+displayTest="IGNORE_SERVER_VERSION"
+
+[[dependencies.virga]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="SERVER"
+
+[[dependencies.virga]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[${minecraft_version}]"
+    ordering="NONE"
+    side="SERVER"

@@ -1,0 +1,76 @@
+.gradle
+.gradle-user/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+.claude/
+.deepseek/
+.codewhale/
+.pi/
+
+**/**/debug*
+# Bundled game assets are shipped content (e.g. debug_stick.png), never debug output.
+!**/src/main/resources/bundled-assets/**/debug*
+
+### IntelliJ IDEA ###
+.idea/*
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+*.log
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Kotlin ###
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+# Virga local/private runtime data
+**/build/
+.idea/
+*.iml
+gradle.properties.local
+/dev-libs/
+/local-inputs/
+/plugins/
+/server/
+/logs/
+/cache/
+/snapshots/
+/state/
+*.secret
+
+# Keep private source artwork tracked; do not ignore *.png or *.jpg.
+
+### Node ###
+node_modules/

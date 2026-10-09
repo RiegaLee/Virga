@@ -1,0 +1,7 @@
+本目录的字体文件来自 MiSans（© 小米 Xiaomi Inc.），按小米 MiSans 的使用说明免费商用并嵌入使用。
+仅包含服务器状态卡与在线列表用到的字符子集，字形未作任何修改。
+MiSans: https://hyperos.mi.com/font/
+
+The font files in this directory are subsets of MiSans (c) Xiaomi Inc., embedded under Xiaomi's
+free commercial-use terms. They hold only the characters Virga's status card and online list
+draw; glyph outlines are unchanged.

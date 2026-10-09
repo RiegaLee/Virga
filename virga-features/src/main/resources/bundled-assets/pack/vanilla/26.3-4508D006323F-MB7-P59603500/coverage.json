@@ -1,0 +1,322 @@
+{
+  "minecraftVersion": "26.3",
+  "totalDefinitions": 1658,
+  "generatedIcons": 1582,
+  "renderCounts": {
+    "GENERATED_2D": 748,
+    "BLOCK_MODEL": 834
+  },
+  "unresolvedCount": 76,
+  "reasonCounts": {
+    "MODEL_HAS_NO_STATIC_TEXTURE": 1,
+    "SPECIAL_RENDERER": 62,
+    "UNSUPPORTED_ITEM_DEFINITION": 3,
+    "DYNAMIC_TINT": 10
+  },
+  "unresolved": [
+    {
+      "material": "minecraft:air",
+      "reason": "MODEL_HAS_NO_STATIC_TEXTURE"
+    },
+    {
+      "material": "minecraft:black_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:black_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:blue_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:blue_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:brown_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:brown_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:chest",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:clock",
+      "reason": "UNSUPPORTED_ITEM_DEFINITION"
+    },
+    {
+      "material": "minecraft:compass",
+      "reason": "UNSUPPORTED_ITEM_DEFINITION"
+    },
+    {
+      "material": "minecraft:conduit",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:copper_chest",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:copper_golem_statue",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:creeper_head",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:cyan_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:cyan_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:decorated_pot",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:dragon_head",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:ender_chest",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:exposed_copper_chest",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:exposed_copper_golem_statue",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:firework_star",
+      "reason": "DYNAMIC_TINT"
+    },
+    {
+      "material": "minecraft:gray_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:gray_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:green_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:green_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:leather_boots",
+      "reason": "DYNAMIC_TINT"
+    },
+    {
+      "material": "minecraft:leather_chestplate",
+      "reason": "DYNAMIC_TINT"
+    },
+    {
+      "material": "minecraft:leather_helmet",
+      "reason": "DYNAMIC_TINT"
+    },
+    {
+      "material": "minecraft:leather_horse_armor",
+      "reason": "DYNAMIC_TINT"
+    },
+    {
+      "material": "minecraft:leather_leggings",
+      "reason": "DYNAMIC_TINT"
+    },
+    {
+      "material": "minecraft:light_blue_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:light_blue_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:light_gray_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:light_gray_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:lime_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:lime_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:lingering_potion",
+      "reason": "DYNAMIC_TINT"
+    },
+    {
+      "material": "minecraft:magenta_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:magenta_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:orange_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:orange_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:oxidized_copper_chest",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:oxidized_copper_golem_statue",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:piglin_head",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:pink_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:pink_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:player_head",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:potion",
+      "reason": "DYNAMIC_TINT"
+    },
+    {
+      "material": "minecraft:purple_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:purple_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:recovery_compass",
+      "reason": "UNSUPPORTED_ITEM_DEFINITION"
+    },
+    {
+      "material": "minecraft:red_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:red_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:shield",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:skeleton_skull",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:splash_potion",
+      "reason": "DYNAMIC_TINT"
+    },
+    {
+      "material": "minecraft:tipped_arrow",
+      "reason": "DYNAMIC_TINT"
+    },
+    {
+      "material": "minecraft:trapped_chest",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:waxed_copper_chest",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:waxed_copper_golem_statue",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:waxed_exposed_copper_chest",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:waxed_exposed_copper_golem_statue",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:waxed_oxidized_copper_chest",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:waxed_oxidized_copper_golem_statue",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:waxed_weathered_copper_chest",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:waxed_weathered_copper_golem_statue",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:weathered_copper_chest",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:weathered_copper_golem_statue",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:white_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:white_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:wither_skeleton_skull",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:yellow_banner",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:yellow_shulker_box",
+      "reason": "SPECIAL_RENDERER"
+    },
+    {
+      "material": "minecraft:zombie_head",
+      "reason": "SPECIAL_RENDERER"
+    }
+  ]
+}

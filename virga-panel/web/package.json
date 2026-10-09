@@ -1,0 +1,17 @@
+{
+  "name": "virga-panel-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "qrcode": "1.5.4"
+  },
+  "devDependencies": {
+    "@types/qrcode": "1.5.5",
+    "typescript": "5.9.3",
+    "vite": "7.1.7"
+  }
+}
